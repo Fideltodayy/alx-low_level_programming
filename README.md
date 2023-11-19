@@ -1,1 +1,1 @@
-This is a repository of my sprint 1 in ALX. Basically dealt in low level programming in C programming language 
+This is a repository of sprint 1 in ALX. Basically dealt in low level programming in C programming language 
