@@ -41,7 +41,7 @@ shash_table_t *shash_table_create(unsigned long int size)
  * @key: The key to add - cannot be an empty string.
  * @value: The value associated with key.
  *
- * Return: Upon failure - 0.
+ * Return: Failure - 0.
  *         Otherwise - 1.
  */
 int shash_table_set(shash_table_t *ht, const char *key, const char *value)
